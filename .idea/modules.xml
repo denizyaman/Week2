@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AsalSayi/AsalSayi.iml" filepath="$PROJECT_DIR$/AsalSayi/AsalSayi.iml" />
       <module fileurl="file://$PROJECT_DIR$/DeseneGoreMetot/DeseneGoreMetot.iml" filepath="$PROJECT_DIR$/DeseneGoreMetot/DeseneGoreMetot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HesapMakinesi/HesapMakinesi.iml" filepath="$PROJECT_DIR$/HesapMakinesi/HesapMakinesi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OgrenciBilgiSistemi/OgrenciBilgiSistemi.iml" filepath="$PROJECT_DIR$/OgrenciBilgiSistemi/OgrenciBilgiSistemi.iml" />
       <module fileurl="file://$PROJECT_DIR$/PalindromSayi/PalindromSayi.iml" filepath="$PROJECT_DIR$/PalindromSayi/PalindromSayi.iml" />
       <module fileurl="file://$PROJECT_DIR$/UsHesabi/UsHesabi.iml" filepath="$PROJECT_DIR$/UsHesabi/UsHesabi.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Week2.iml" filepath="$PROJECT_DIR$/.idea/Week2.iml" />
