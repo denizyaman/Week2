@@ -7,12 +7,14 @@
       <module fileurl="file://$PROJECT_DIR$/DeseneGoreMetot/DeseneGoreMetot.iml" filepath="$PROJECT_DIR$/DeseneGoreMetot/DeseneGoreMetot.iml" />
       <module fileurl="file://$PROJECT_DIR$/DiziElemanlarininMaxMinDegeri/DiziElemanlarininMaxMinDegeri.iml" filepath="$PROJECT_DIR$/DiziElemanlarininMaxMinDegeri/DiziElemanlarininMaxMinDegeri.iml" />
       <module fileurl="file://$PROJECT_DIR$/DizideTekrarEdenCiftSayi/DizideTekrarEdenCiftSayi.iml" filepath="$PROJECT_DIR$/DizideTekrarEdenCiftSayi/DizideTekrarEdenCiftSayi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DizidekiElemanlariSirala/DizidekiElemanlariSirala.iml" filepath="$PROJECT_DIR$/DizidekiElemanlariSirala/DizidekiElemanlariSirala.iml" />
       <module fileurl="file://$PROJECT_DIR$/DizilerleBHarfi/DizilerleBHarfi.iml" filepath="$PROJECT_DIR$/DizilerleBHarfi/DizilerleBHarfi.iml" />
       <module fileurl="file://$PROJECT_DIR$/DiziElemanlariOrt/HarmonikOrtalama.iml" filepath="$PROJECT_DIR$/DiziElemanlariOrt/HarmonikOrtalama.iml" />
       <module fileurl="file://$PROJECT_DIR$/HesapMakinesi/HesapMakinesi.iml" filepath="$PROJECT_DIR$/HesapMakinesi/HesapMakinesi.iml" />
       <module fileurl="file://$PROJECT_DIR$/MaasHesaplayici/MaasHesaplayici.iml" filepath="$PROJECT_DIR$/MaasHesaplayici/MaasHesaplayici.iml" />
       <module fileurl="file://$PROJECT_DIR$/OgrenciBilgiSistemi/OgrenciBilgiSistemi.iml" filepath="$PROJECT_DIR$/OgrenciBilgiSistemi/OgrenciBilgiSistemi.iml" />
       <module fileurl="file://$PROJECT_DIR$/PalindromSayi/PalindromSayi.iml" filepath="$PROJECT_DIR$/PalindromSayi/PalindromSayi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SayiTahmini/SayiTahmini.iml" filepath="$PROJECT_DIR$/SayiTahmini/SayiTahmini.iml" />
       <module fileurl="file://$PROJECT_DIR$/UsHesabi/UsHesabi.iml" filepath="$PROJECT_DIR$/UsHesabi/UsHesabi.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Week2.iml" filepath="$PROJECT_DIR$/.idea/Week2.iml" />
     </modules>
